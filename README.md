@@ -1,7 +1,7 @@
 ## Hello my name is Pedro Teles 👋
 
 - 🔭 I’m currently working on: Data Analyst
-- 🌱 I’m currently learning: JQuery
+- 🌱 I’m currently learning: Java
 - 👯 I’m looking to collaborate on: Software development
 - ⚡ Fun fact: "I can solve the Rubik's cube in 1 minute... well, at least in my imagination!"
 
