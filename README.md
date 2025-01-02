@@ -1,7 +1,7 @@
 ## Hello my name is Pedro Teles 👋
 
 - 🔭 I’m currently working on: Data Analyst
-- 🌱 I’m currently learning: Java
+- 🌱 I’m currently learning: PHP
 - 👯 I’m looking to collaborate on: Software development
 - ⚡ Fun fact: "I can solve the Rubik's cube in 1 minute... well, at least in my imagination!"
 
@@ -22,7 +22,10 @@
   <img align="center" alt="Pedro-Springboot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Pedro-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">          
+  <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">         
+  <img align="center" alt="Pedro-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">         
+
 </div>
 
 ##
