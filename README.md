@@ -1,4 +1,8 @@
-## Hello my name is Pedro Teles 👋
+<div>
+  <h1 align="center">
+    𝗛𝗲𝗹𝗹𝗼 𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗣𝗲𝗱𝗿𝗼 𝗧𝗲𝗹𝗲𝘀 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
+  </h1>
+</div>
 
 - 🔭 I’m currently working on: Developer
 - 🌱 I’m currently learning: PHP
@@ -10,12 +14,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-teles&include_all_commits=true&count_private=true&show_icons=true&theme=dracula">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-teles&layout=compact&theme=dracula">
 </p>
-
-<div>
-  <h1 align="center">
-    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
-  </h1>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
