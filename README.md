@@ -11,7 +11,11 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-teles&layout=compact&theme=dracula">
 </p>
 
-
+<div>
+  <h1 align="center">
+    𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
+  </h1>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
