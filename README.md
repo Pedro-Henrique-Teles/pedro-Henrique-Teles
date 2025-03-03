@@ -10,8 +10,6 @@
 </p>
 </div>
 
-##
-
 <div align="center">
   <span>🔭 I’m currently working on: Software Developer</span>
     <br>
