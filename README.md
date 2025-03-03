@@ -17,7 +17,7 @@
     <br>
   <span>👯 I’m looking to collaborate on: Software development</span>
 </div>
-<br>
+  <br>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-teles&include_all_commits=true&count_private=true&show_icons=true&theme=dracula">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-teles&layout=compact&theme=dracula">
@@ -40,11 +40,7 @@
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">          
 </div>
 
-##
-
 <div align="center"> 
-  <a href = "mailto:pedrohenriqueteles732@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-teles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+  <a href = "mailto:pedrohenriqueteles732@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-teles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
