@@ -1,6 +1,4 @@
-<div>
-![snake gif](https://github.com/pedro-henrique-teles/pedro-henrique-teles/blob/gh-pages/snake.svg)
-  
+<div>  
   <h1 align="center">
     𝗛𝗲𝗹𝗹𝗼 𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗣𝗲𝗱𝗿𝗼 𝗧𝗲𝗹𝗲𝘀 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
   </h1>
@@ -24,6 +22,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-teles&include_all_commits=true&count_private=true&show_icons=true&theme=dracula">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-teles&layout=compact&theme=dracula">
 </p>
+
+![snake gif](https://raw.githubusercontent.com/pedro-henrique-teles/pedro-henrique-teles/gh-pages/snake.svg)
+
 
 ##
 
