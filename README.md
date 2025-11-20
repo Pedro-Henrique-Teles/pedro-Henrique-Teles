@@ -1,4 +1,6 @@
 <div>
+![snake gif](https://github.com/pedro-henrique-teles/pedro-henrique-teles/blob/gh-pages/snake.svg)
+  
   <h1 align="center">
     𝗛𝗲𝗹𝗹𝗼 𝗺𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗣𝗲𝗱𝗿𝗼 𝗧𝗲𝗹𝗲𝘀 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
   </h1>
