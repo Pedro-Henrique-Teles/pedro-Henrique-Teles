@@ -23,8 +23,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-teles&layout=compact&theme=dracula">
 </p>
 
-![snake gif](https://raw.githubusercontent.com/pedro-henrique-teles/pedro-henrique-teles/gh-pages/snake.svg)
-
+![snake animation](https://github.com/pedro-henrique-teles/pedro-henrique-teles/blob/output/github-contribution-grid-snake2.svg)
 
 ##
 
